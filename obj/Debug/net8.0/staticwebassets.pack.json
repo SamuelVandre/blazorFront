@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MeuProjetoSimples.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MeuProjetoSimples.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\wwwroot\\imgs\\bolas.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\bolas.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\wwwroot\\imgs\\diversos.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\diversos.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\wwwroot\\imgs\\luvas.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\luvas.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MeuProjetoSimples.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MeuProjetoSimples.props",
+      "PackagePath": "build\\MeuProjetoSimples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MeuProjetoSimples.props",
+      "PackagePath": "buildMultiTargeting\\MeuProjetoSimples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MeuProjetoSimples.props",
+      "PackagePath": "buildTransitive\\MeuProjetoSimples.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
