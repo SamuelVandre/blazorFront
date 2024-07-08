@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\MeuProjetoSimples.csproj": {}
+    "C:\\Users\\samuc\\source\\repos\\blazorFront\\MeuProjetoSimples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\MeuProjetoSimples.csproj": {
+    "C:\\Users\\samuc\\source\\repos\\blazorFront\\MeuProjetoSimples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\MeuProjetoSimples.csproj",
+        "projectUniqueName": "C:\\Users\\samuc\\source\\repos\\blazorFront\\MeuProjetoSimples.csproj",
         "projectName": "MeuProjetoSimples",
-        "projectPath": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\MeuProjetoSimples.csproj",
+        "projectPath": "C:\\Users\\samuc\\source\\repos\\blazorFront\\MeuProjetoSimples.csproj",
         "packagesPath": "C:\\Users\\samuc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\obj\\",
+        "outputPath": "C:\\Users\\samuc\\source\\repos\\blazorFront\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

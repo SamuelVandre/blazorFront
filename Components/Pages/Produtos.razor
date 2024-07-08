@@ -1,12 +1,83 @@
 ﻿@page "/Produtos"
+<PageTitle>Produtos</PageTitle>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    input:focus{
+        border: 0;
+        outline: 1px solid red;
+    }
+
+    section.produtos {
+        height: 100vh;
+    }
+
+    .prod {
+        width: 22%;
+    }
+
+    .conteudo {
+        height: 25vh;
+    }
+
+    button{
+        font-size: 80%;
+        width: 6%;
+    }
+</style>
+
+<form class="w-100 d-flex justify-content-center">
+    <input type="search" class="me-2 w-25 border-danger border-1 rounded-pill ps-3" name="name" value="" />
+    <button type="submit" class="ms-2 border-danger border-1 bg-danger bg-opacity-25 rounded-pill">Pesquisar</button>
+</form>
 
 <h3>Produtos</h3>
 
+<section class="produtos w-100">
+    <div class="row d-flex flex-wrap ">
+        @* <div class="prod card w-25 border-dark">
+            <div class="titulo">produto</div>
+            <div class="conteudo">
+                <div class="img">
+                    <img src="" alt="">
+                </div>
+                <div class="desc">
+                    ASDASDASDDASDASDDASDASSADDSSASDDS
+                </div>
+            </div>
+        </div> *@
+        @{
+            string[] DescricaoProd = ["Camiseta muito bonita e confortavel, edição limitada", "Mouse gamer muito bom e com DPI super precisa", "Teclado gamer super legal", "Monitor incrivelmente bom", "Gabinete gamer super legal"];
 
-
+            for(int i=0; i < 5; i++){
+                @*
+                    Da pra colocar um banco de dados aqui
+                    //pena que eu nao sei
+                *@
+                <div class="prod card ms-2 mb-1 mt-1 me-2 border-dark" onclick="window.location.href='/Produtos?@i'">
+            <div class="titulo">produto</div>
+            <div class="conteudo">
+                <div class="img">
+                    <img src="" alt="">
+                </div>
+                <div class="desc">
+                    @DescricaoProd[i]
+                </div>
+            </div>
+        </div>
+            }
+        }
+        
+   </div>
+</section>
 
 
 
 @code {
-
+    
 }

@@ -27,3 +27,4 @@ C:\Users\samuc\Desktop\blazor\MeuProjetoSimples\obj\Debug\net8.0\refint\MeuProje
 C:\Users\samuc\Desktop\blazor\MeuProjetoSimples\obj\Debug\net8.0\MeuProjetoSimples.pdb
 C:\Users\samuc\Desktop\blazor\MeuProjetoSimples\obj\Debug\net8.0\MeuProjetoSimples.genruntimeconfig.cache
 C:\Users\samuc\Desktop\blazor\MeuProjetoSimples\obj\Debug\net8.0\ref\MeuProjetoSimples.dll
+C:\Users\samuc\Desktop\blazor\MeuProjetoSimples\obj\Debug\net8.0\MeuProjetoSimples.sourcelink.json

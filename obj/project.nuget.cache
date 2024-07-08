@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bmBNGaREKpc76i8gfNoz9z0R1cawcgJ/iub/PFA61QdoKr8ULGZujw6m/wJPwZQpUhLAsjwXxi8Llow6AWZ+Cg==",
+  "dgSpecHash": "QmaVSnAR1Pqpp4T/c0zzGhgrI+KZj9P9hOUxYZ/SNHc82XT/g0sO4JS+ynqMzBPS8XxTNbDeupyx+bs155W3Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samuc\\Desktop\\blazor\\MeuProjetoSimples\\MeuProjetoSimples.csproj",
+  "projectFilePath": "C:\\Users\\samuc\\source\\repos\\blazorFront\\MeuProjetoSimples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
